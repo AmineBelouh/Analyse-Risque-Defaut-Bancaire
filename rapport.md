@@ -204,7 +204,7 @@ Le score AUC (Area Under the Curve) mesure la capacité du modèle à classer un
 
 
 Dans notre contexte, le **Recall (Rappel)** de la classe 1 est la métrique prioritaire.
-* **Résultat :** Nous parvenons à détecter **76% des défauts réels**.
+* **Résultat :** Nous parvenons à détecter **85% des défauts réels**.
 * **Interprétation :** Bien que le modèle ne soit pas parfait, il permet de bloquer automatiquement 3 "mauvais payeurs" sur 4, réduisant ainsi drastiquement les pertes sèches pour la banque.
 
 ---
@@ -272,4 +272,4 @@ Bien que performant, le modèle présente des limites :
 ---
 
 ## 🏁 Conclusion
-Ce projet démontre que l'utilisation du Machine Learning permet non seulement de réduire le coût du risque de **15 à 20%** (via le Recall de 76%), mais aussi de transformer une base de données brute en un outil de segmentation marketing puissant. La banque passe d'une gestion réactive à une gestion prédictive et personnalisée de sa clientèle.
+Ce projet démontre que l'utilisation du Machine Learning permet non seulement de réduire le coût du risque de **15 à 20%** (via le Recall de 85%), mais aussi de transformer une base de données brute en un outil de segmentation marketing puissant. La banque passe d'une gestion réactive à une gestion prédictive et personnalisée de sa clientèle.
