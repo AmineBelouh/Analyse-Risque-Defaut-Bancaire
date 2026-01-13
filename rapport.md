@@ -191,11 +191,11 @@ Le score AUC (Area Under the Curve) mesure la capacité du modèle à classer un
 
 | Modèle | Score AUC | F1-Score | Recall (Classe 1) |
 | :--- | :---: | :---: | :---: |
-| Régression Logistique | 0.82 | 0.65 | 0.58 |
-| Random Forest (Base) | 0.89 | 0.78 | 0.72 |
-| **Random Forest Optimisé** | **0.92** | **0.81** | **0.76** |
+| Régression Logistique | 0.950 | 0.65 | 0.58 |
+| Random Forest (Base) | 0.998 | 0.78 | 0.72 |
+| **Random Forest Optimisé** | **0.999** | **0.81** | **0.85** |
 
-**Analyse :** Le Random Forest optimisé surpasse nettement la Régression Logistique. Un AUC de 0.92 est considéré comme excellent dans le domaine bancaire.
+**Analyse :** Le Random Forest optimisé surpasse nettement la Régression Logistique. Un AUC de 0.999 est considéré comme excellent dans le domaine bancaire.
 
 #### B. La Matrice de Confusion : Le point de vue "Risque"  
 
