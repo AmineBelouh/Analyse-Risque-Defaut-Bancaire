@@ -9,8 +9,7 @@ Bienvenue dans ce dépôt dédié à l'optimisation des décisions d'octroi de c
 Pour explorer ce projet, voici les différents points d'entrée :
 
 * **[Code Source] :** Consultez le fichier [`code.ipynb`](code.ipynb) pour voir l'intégralité du pipeline Python (Nettoyage, EDA, Random Forest, K-Means).
-* **[Rapport Complet] :** Lisez le [Rapport d'Étude détaillé](rapport.md) pour comprendre la méthodologie et les conclusions métier.  
-* **[Rapport Canva] :** Téléchargez le rapport [Rapport Canva](Rapport_Canva.pdf).
+* **[Rapport Complet] :** Lisez le [Rapport d'Étude détaillé](rapport.md) pour comprendre la méthodologie et les conclusions métier.
 * **[Présentation] :** Lisez la [Présentation PPT](presentation.pdf).
 * **[Données] :** L'analyse repose sur un dataset de 4 000 clients incluant des variables financières et comportementales.
 * **[Visualisations] :** Tous les graphiques et courbes de performance (ROC, Matrice de confusion) sont intégrés dans ce document.
